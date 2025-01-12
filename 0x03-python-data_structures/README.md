@@ -1,1 +1,2 @@
-0x03. Python - Data Structures: Lists, Tuples
+0x03-python-data_structures
+Focuses on Python's built-in data structures, including lists, tuples, and dictionaries.
